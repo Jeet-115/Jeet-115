@@ -9,7 +9,7 @@
 
 - 🔭 I’m currently working on [PUAISO](https://github.com/The-PU-AI-Society/PUAISO)
 
-- 🌱 I’m currently learning **MongoDB**
+- 🌱 I’m currently learning **Backend**
 
 - 👨‍💻 All of my projects are available at [https://jeet-115.github.io/portfolio/](https://jeet-115.github.io/portfolio/)
 
