@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=jeet-115" alt="jeet-115" /></a> </p>
 
-<p align="left"> <a href="https://twitter.com/jeet43959691" target="blank"><img src="https://img.shields.io/twitter/follow/jeet43959691?logo=twitter&style=for-the-badge" alt="jeet43959691" /></a> </p>
+<p align="left"> <a href="https://linkedin.com/in/https://www.linkedin.com/in/jeet-mistry-67a613233/" target="blank"><img src="https://img.shields.io/twitter/follow/jeet43959691?logo=twitter&style=for-the-badge" alt="jeet43959691" /></a> </p>
 
 - 🔭 I’m currently working on [PUAISO](https://github.com/The-PU-AI-Society/PUAISO)
 
