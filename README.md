@@ -7,15 +7,15 @@
 
 <p align="left"> <a href="https://www.linkedin.com/in/jeet-mistry-67a613233/" target="blank"><img src="https://img.shields.io/twitter/follow/jeet43959691?logo=twitter&style=for-the-badge" alt="jeet43959691" /></a> </p>
 
-- 🔭 I’m currently working on [PUAISO](https://github.com/The-PU-AI-Society/PUAISO)
+- 🔭 I’m currently working on [Excel Analysis Platform](https://github.com/Jeet-115/Excel-Analytics-Platform)
 
-- 🌱 I’m currently learning **Backend**
+- 🌱 I’m currently learning **React Libraries**
 
-- 👨‍💻 All of my projects are available at [https://jeet-115.github.io/portfolio/](https://jeet-115.github.io/portfolio/)
+- 👨‍💻 All of my projects are available at [Portfolio](https://jeetmistry.vercel.app/)
 
 - 📝 I regularly work on [https://github.com/Jeet-115](https://github.com/Jeet-115)
 
-- 💬 Ask me about **React, Tailwind and JS**
+- 💬 Ask me about **MERN Stack Development**
 
 - 📫 How to reach me **jeetmistry115@gmail.com**
 
